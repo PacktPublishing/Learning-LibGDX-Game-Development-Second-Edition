@@ -1,0 +1,2 @@
+# Module com.packtpub.libgdx.canyonbunny.GwtDefinition
+# RPC service class, partial path of RPC policy file

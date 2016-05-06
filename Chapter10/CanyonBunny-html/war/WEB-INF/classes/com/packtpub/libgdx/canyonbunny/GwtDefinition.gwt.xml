@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+	<inherits name="CanyonBunnyMain" />
+	<inherits name="com.badlogic.gdx.backends.gdx_backends_gwt" />
+	<entry-point class="com.packtpub.libgdx.canyonbunny.client.GwtLauncher" />
+	<set-configuration-property name="gdx.assetpath"
+		value="../CanyonBunny-android/assets" />
+	<extend-configuration-property name="gdx.reflect.include"
+		value="com.badlogic.gdx.scenes.scene2d.ui" />
+	<extend-configuration-property name="gdx.reflect.include"
+		value="com.badlogic.gdx.utils" />
+</module>
