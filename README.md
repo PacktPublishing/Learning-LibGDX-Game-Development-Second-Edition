@@ -49,3 +49,7 @@ Each Chapter contains lots of code. You will see code something similler to the 
 * [Learning Libgdx Game Development](https://www.packtpub.com/game-development/learning-libgdx-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781782166047)
 * [Libgdx Cross-platform Game Development Cookbook](https://www.packtpub.com/game-development/libgdx-cross-platform-game-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783287291)
 * [LibGDX Game Development Essentials](https://www.packtpub.com/game-development/libgdx-game-development-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781784399290)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781783554775">https://packt.link/free-ebook/9781783554775 </a> </p>
